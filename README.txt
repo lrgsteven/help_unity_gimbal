@@ -1,0 +1,1 @@
+This project is a simply a code upload so that someone could help me better understand a concept. Open TestScene in unity. Select the TestContainer in the hierarchy and push buttons (no need to push play). Most of the code is in Assets/Editor/TestControlInspector.cs
